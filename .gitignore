@@ -1,1 +1,2 @@
-.pkl
+scaler.pkl
+svm_model.pkl
